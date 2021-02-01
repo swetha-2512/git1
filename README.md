@@ -11,3 +11,7 @@ git workshop
 - python file name(excutes a .py file)
 - mv old new(changes the filename)
 - rmdir (remove directory)
+## 3 steps  to git files
+- coverted the files into tracking area
+- creates a snapshot by adding into staging area
+- commite the  changes with message
