@@ -17,3 +17,5 @@ git workshop
 - commite the  changes with message
 ## remote
 - git  remote add r1
+## clone the repositary
+ - get clone "repo link" foldername
