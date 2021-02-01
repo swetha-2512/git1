@@ -19,3 +19,7 @@ git workshop
 - git  remote add r1
 ## clone the repositary
  - get clone "repo link" foldername
+## unding changes
+- git restore file name (uncommitted changes)
+- git revert id ( commited changes)
+- git reset id (reseting committes)
