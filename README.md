@@ -1,3 +1,4 @@
 # git1
 git workshop
-git sweetha
+## basic linux commands
+-cd( change directory)
