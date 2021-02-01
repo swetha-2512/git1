@@ -16,4 +16,4 @@ git workshop
 - creates a snapshot by adding into staging area
 - commite the  changes with message
 ## remote
-- git add remote remote name
+- git  remote add r1
